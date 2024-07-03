@@ -6,6 +6,7 @@ void minus_table() {
 			printf("%d - %d = %2d  ", j, i, j - i);
 		printf("\n");
 	}
+	printf("\n");
 }
 
 void plus_table() {
@@ -14,6 +15,7 @@ void plus_table() {
 			printf("%d + %d = %2d  ", j, i, i + j);
 		printf("\n");
 	}
+	printf("\n");
 }
 
 void multiplication_table() {
@@ -22,6 +24,7 @@ void multiplication_table() {
 			printf("%d X %d = %2d  ", j, i, i * j);
 		printf("\n");
 	}
+	printf("\n");
 }
 
 int main() {
